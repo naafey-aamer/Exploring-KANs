@@ -93,7 +93,7 @@ The Splines learnt by the output edges are particularly interesting.
 
 These results indicate that KANs hold significant potential for applications in machine learning. Their ability to learn complex relationships in data while providing interpretable, and visual representations opens avenues for further exploration. 
 
-With further research and development, KANs could emerge as the replacement of MLPs (the core foundation of Deep Learning).
+With further research and development, KANs could emerge as the replacement of MLPs.
 
 All the code for this experiment is available in [winconsin.py](wisconsin.ipynb.IPYNB)
 
