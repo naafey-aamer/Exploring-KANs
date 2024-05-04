@@ -91,8 +91,12 @@ The Splines learnt by the output edges are particularly interesting.
 **They visualize that the model has captured the binary relationship between the 2 classes almost perfectly.**
 
 
-The results indicate that KANs hold significant potential for applications in machine learning. Their ability to learn complex relationships in data while providing interpretable, and visual representations opens avenues for further exploration and adoption in various domains. 
+These results indicate that KANs hold significant potential for applications in machine learning. Their ability to learn complex relationships in data while providing interpretable, and visual representations opens avenues for further exploration. 
 
 With further research and development, KANs could emerge as the replacement of MLPs (the core foundation of Deep Learning).
 
 All the code for this experiment is available in [winconsin.py](wisconsin.ipynb.IPYNB)
+
+
+# Regression On Tabular Data
+TODO
